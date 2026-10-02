@@ -1,7 +1,4 @@
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_ManicMiner.Tests
-/home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
-/home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
-/home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/ManicMiner.Tests.deps.json
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/ManicMiner.Tests.runtimeconfig.json
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/ManicMiner.Tests.dll
@@ -15,8 +12,6 @@
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/testhost.dll
-/home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
-/home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/xunit.abstractions.dll
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/xunit.assert.dll
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/xunit.core.dll
@@ -101,3 +96,6 @@
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/obj/Debug/net8.0/ManicMiner.Tests.pdb
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/obj/Debug/net8.0/ManicMiner.Tests.genruntimeconfig.cache
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/obj/Debug/net8.0/ref/ManicMiner.Tests.dll
+/home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/.msCoverageSourceRootsMapping_ManicMiner.Tests
+/home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.testadapter.dll
+/home/sgodrich/RiderProjects/Manic Miner/ManicMiner/tests/ManicMiner.Tests/obj/Debug/net8.0/ManicMiner.Tests.sourcelink.json

@@ -13,3 +13,4 @@
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/src/ManicMiner.Remake/obj/Debug/net8.0/refint/ManicMiner.Remake.dll
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/src/ManicMiner.Remake/obj/Debug/net8.0/ManicMiner.Remake.pdb
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/src/ManicMiner.Remake/obj/Debug/net8.0/ref/ManicMiner.Remake.dll
+/home/sgodrich/RiderProjects/Manic Miner/ManicMiner/src/ManicMiner.Remake/obj/Debug/net8.0/ManicMiner.Remake.sourcelink.json

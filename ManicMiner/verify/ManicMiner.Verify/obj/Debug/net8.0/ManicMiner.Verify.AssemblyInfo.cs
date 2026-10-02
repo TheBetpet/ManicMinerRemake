@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManicMiner.Verify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fca87519496020688eaad58936688084abd8c939")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManicMiner.Verify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManicMiner.Verify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -45,3 +45,4 @@
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/src/ManicMiner.Game/obj/Debug/net8.0/ref/ManicMiner.Game.dll
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/src/ManicMiner.Game/bin/Debug/net8.0/ManicMiner.Remake.dll
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/src/ManicMiner.Game/bin/Debug/net8.0/ManicMiner.Remake.pdb
+/home/sgodrich/RiderProjects/Manic Miner/ManicMiner/src/ManicMiner.Game/obj/Debug/net8.0/ManicMiner.Game.sourcelink.json

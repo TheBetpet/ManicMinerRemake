@@ -18,3 +18,4 @@
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/verify/ManicMiner.Verify/obj/Debug/net8.0/ref/ManicMiner.Verify.dll
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/verify/ManicMiner.Verify/bin/Debug/net8.0/ManicMiner.Remake.dll
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/verify/ManicMiner.Verify/bin/Debug/net8.0/ManicMiner.Remake.pdb
+/home/sgodrich/RiderProjects/Manic Miner/ManicMiner/verify/ManicMiner.Verify/obj/Debug/net8.0/ManicMiner.Verify.sourcelink.json

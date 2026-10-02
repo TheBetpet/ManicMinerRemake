@@ -9,3 +9,4 @@
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/src/ManicMiner.Core/obj/Debug/net8.0/refint/ManicMiner.Core.dll
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/src/ManicMiner.Core/obj/Debug/net8.0/ManicMiner.Core.pdb
 /home/sgodrich/RiderProjects/Manic Miner/ManicMiner/src/ManicMiner.Core/obj/Debug/net8.0/ref/ManicMiner.Core.dll
+/home/sgodrich/RiderProjects/Manic Miner/ManicMiner/src/ManicMiner.Core/obj/Debug/net8.0/ManicMiner.Core.sourcelink.json

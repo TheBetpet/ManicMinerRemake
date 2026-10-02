@@ -50,6 +50,7 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
             "/home/sgodrich/RiderProjects/Manic Miner/ManicMiner/src/ManicMiner.Core/ManicMiner.Core.csproj": {
@@ -72,6 +73,7 @@
     },
     "frameworks": {
       "net8.0": {
+        "framework": "net8.0",
         "targetAlias": "net8.0",
         "imports": [
           "net461",
