@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ManicMiner.Verify/1.0.0": {
+        "dependencies": {
+          "ManicMiner.Core": "1.0.0",
+          "ManicMiner.Remake": "1.0.0"
+        },
+        "runtime": {
+          "ManicMiner.Verify.dll": {}
+        }
+      },
+      "ManicMiner.Core/1.0.0": {
+        "runtime": {
+          "ManicMiner.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ManicMiner.Remake/1.0.0": {
+        "dependencies": {
+          "ManicMiner.Core": "1.0.0"
+        },
+        "runtime": {
+          "ManicMiner.Remake.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManicMiner.Verify/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManicMiner.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManicMiner.Remake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

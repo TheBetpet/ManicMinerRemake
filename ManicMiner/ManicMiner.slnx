@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ManicMiner.Core/ManicMiner.Core.csproj" />
+    <Project Path="src/ManicMiner.Remake/ManicMiner.Remake.csproj" />
+    <Project Path="src/ManicMiner.Game/ManicMiner.Game.csproj" />
+    <Project Path="src/ManicMiner.Editor/ManicMiner.Editor.csproj" />
+  </Folder>
+  <Folder Name="/verify/">
+    <Project Path="verify/ManicMiner.Verify/ManicMiner.Verify.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ManicMiner.Tests/ManicMiner.Tests.csproj" />
+  </Folder>
+</Solution>

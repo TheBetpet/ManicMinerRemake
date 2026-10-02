@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ManicMiner.Core/1.0.0": {
+        "runtime": {
+          "ManicMiner.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManicMiner.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
